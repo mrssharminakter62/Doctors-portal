@@ -12,7 +12,7 @@ const FeaturedDetail = () => {
             <div className="col-md-7 align-self-center">
                 <h2>Exceptional Dental <br/> Care, on Your Terms </h2>
                 <p className="text-secondary my-5" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora adipisci a deleniti cupiditate maxime expedita minima corporis aliquid labore delectus.</p>
-                <button className="btn-primary">Learn More</button>
+                <button className="btn-brand">Learn More</button>
             </div> 
             </div>
           </div>

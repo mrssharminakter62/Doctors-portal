@@ -1,3 +1,6 @@
+.today{
+    z-index: 100;
+}
 .make-appoinment{
     background-image: url('../../../images/appoinmentBg.png');
     background-repeat: no-repeat;
@@ -5,7 +8,7 @@
     position: relative;
     height: 420px;
     background-position: center center; 
-}
+   } 
 .make-appoinment::before{
     content: "";
     display: block;
@@ -17,6 +20,7 @@
     top: 0;
  
 }
+
 .make-appoinment img{
     height: 550px;
     transform: translateY(-130px)
